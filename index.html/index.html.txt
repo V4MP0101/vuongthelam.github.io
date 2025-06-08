@@ -1,31 +1,7 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <meta charset="UTF-8">
-  <title>Trang cá nhân của Vương Thế Lâm</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      margin: 40px;
-      background-color: #f4f4f4;
-      text-align: center;
-    }
-    .avatar {
-      width: 150px;
-      border-radius: 50%;
-      border: 3px solid #ccc;
-      margin-bottom: 20px;
-    }
-    a {
-      text-decoration: none;
-      color: #0077cc;
-    }
-  </style>
-</head>
 <body>
-  <img src="avatar.jpg" alt="Ảnh đại diện của Vương Thế Lâm" class="avatar">
-  <h1>Xin chào, tôi là Vương Thế Lâm</h1>
-  <p>Tôi là người đam mê công nghệ và thiết kế, luôn sẵn sàng học hỏi và chia sẻ.</p>
-  <p><a href="mailto:vuongthelam10@gmail.com">Liên hệ qua email</a></p>
+<h1>Hello World</h1>
+<p>I'm hosted with GitHub Pages.</p>
 </body>
 </html>
